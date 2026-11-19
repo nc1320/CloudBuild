@@ -16,6 +16,7 @@ on:
           - "windows-latest"
           - "macos-latest"
           - "ubuntu-24.04"
+          - "macos-15-intel"
       url:
         description: "Website URL"
         required: true
